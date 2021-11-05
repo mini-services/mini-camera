@@ -1,6 +1,5 @@
 {
   "collection": "@nestjs/schematics",
-  "sourceRoot": "apps/auth-service/src",
   "monorepo": true,
   "root": "apps/camera-manager",
   "compilerOptions": {
